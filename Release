@@ -1,0 +1,15 @@
+Origin: My Jailbreak Repo
+Label: My Jailbreak Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: 我的越狱插件源
+MD5Sum:
+ d2ebf07e50609247b3be4ca4810f103a 405 Packages
+ b5ee1780a56c900d8f7d94ec24b0516e 356 Packages.gz
+ 9b8b4e7a91cdf0b3fb38f5f2d47ced1b 366 Packages.bz2
+SHA256:
+ 64f84d48b4d67f0c6b6596176fde57dd21d7cb3acc52c07a08ce6e645c85fa2e 405 Packages
+ 890a76081da7794aeabf2cca0eaa46e91f8c957bba237af76ef7c19992569c24 356 Packages.gz
+ 5892842108f9ca7ef7dd82cc8012e5a60610218070dec688dcf57fc88171a6ca 366 Packages.bz2

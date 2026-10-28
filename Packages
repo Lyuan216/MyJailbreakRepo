@@ -1,0 +1,15 @@
+Package: com.hw.icost
+Name: 🅷🆆 iCost
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 解锁会员 - TG：@HelloWorld_1024
+Depends: mobilesubstrate
+Section: Tweaks
+Author: 🅷🆆
+Maintainer: 🅷🆆
+Filename: debs/icost.deb
+Size: 726680
+MD5sum: cbeecd101a2e492e3341b0b8511c9528
+SHA256: 714288464106411029151833f8676a5ac395dcaa41261ca593e7abf8139f0585
+Installed-Size: 5488
+
