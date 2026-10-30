@@ -30,6 +30,7 @@ REPO_META = {
     "Architectures": "iphoneos-arm iphoneos-arm64",
     "Components":  "main",
     "Description": "我的越狱插件源",
+    "Icon":        "https://lyuan216.github.io/MyJailbreakRepo/icon.png",
 }
 # =================================================================
 
@@ -129,7 +130,7 @@ def build():
 
 def write_release():
     lines = []
-    for k in ["Origin", "Label", "Suite", "Version", "Architectures", "Components", "Description"]:
+    for k in ["Origin", "Label", "Icon", "Suite", "Version", "Architectures", "Components", "Description"]:
         lines.append("%s: %s" % (k, REPO_META.get(k, "")))
     files = {}
     for fn in ["Packages", "Packages.gz", "Packages.bz2"]:

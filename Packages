@@ -1,3 +1,18 @@
+Package: com.hw.cookiepro
+Name: 🄷🅆  Cookie
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 解锁VIP TG：@HelloWorld_1024
+Depends: mobilesubstrate
+Section: Tweaks
+Author: 🄷🅆
+Maintainer: 🄷🅆
+Filename: debs/com.hw.cookiepro_0.0.1_iphoneos-arm64.deb
+Size: 785386
+MD5sum: 3f9598f456a90b96a8761c1be9d30b55
+SHA256: 2972d7ab3d73fc037a462fbf621628d903bf0f2e5f43d41449aa9cd452819ad0
+Installed-Size: 5956
+
 Package: com.hw.icost
 Name: 🅷🆆 iCost
 Version: 0.0.1
@@ -7,9 +22,39 @@ Depends: mobilesubstrate
 Section: Tweaks
 Author: 🅷🆆
 Maintainer: 🅷🆆
-Filename: debs/icost.deb
+Filename: debs/com.hw.icost_0.0.1_iphoneos-arm64.deb
 Size: 726680
 MD5sum: cbeecd101a2e492e3341b0b8511c9528
 SHA256: 714288464106411029151833f8676a5ac395dcaa41261ca593e7abf8139f0585
 Installed-Size: 5488
+
+Package: com.hw.kuwovip
+Name: 🅷🆆 酷我音乐纯净版
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 解锁会员 - TG：@HelloWorld_1024
+Depends: mobilesubstrate
+Section: Tweaks
+Author: 🅷🆆
+Maintainer: 🅷🆆
+Filename: debs/com.hw.kuwovip_0.0.1_iphoneos-arm64.deb
+Size: 324822
+MD5sum: f5f087c3bee73bea519532a46e3453ca
+SHA256: 74f4f61c3e282b7fb348ca3e9bbb940b1d2e44710a179e43bfa1ba8ddcd49253
+Installed-Size: 2352
+
+Package: com.hw.qianyuevip
+Name: 🅷🆆 千阅
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 解锁会员去除广告
+Depends: mobilesubstrate
+Section: Tweaks
+Author: 🅷🆆
+Maintainer: 🅷🆆
+Filename: debs/com.hw.qianyuevip_0.0.1_iphoneos-arm64.deb
+Size: 58544
+MD5sum: fbac92ef469fc685e4088e8c6ce889af
+SHA256: c1f02fd59cef9b60af0f94f0f50ad19ca7cd39d45252953fcaecdf06a712f433
+Installed-Size: 396
 
