@@ -28,21 +28,6 @@ MD5sum: cbeecd101a2e492e3341b0b8511c9528
 SHA256: 714288464106411029151833f8676a5ac395dcaa41261ca593e7abf8139f0585
 Installed-Size: 5488
 
-Package: com.hw.kuwovip
-Name: 🅷🆆 酷我音乐纯净版
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Description: 解锁会员 - TG：@HelloWorld_1024
-Depends: mobilesubstrate
-Section: Tweaks
-Author: 🅷🆆
-Maintainer: 🅷🆆
-Filename: debs/com.hw.kuwovip_0.0.1_iphoneos-arm64.deb
-Size: 324822
-MD5sum: f5f087c3bee73bea519532a46e3453ca
-SHA256: 74f4f61c3e282b7fb348ca3e9bbb940b1d2e44710a179e43bfa1ba8ddcd49253
-Installed-Size: 2352
-
 Package: com.hw.qianyuevip
 Name: 🅷🆆 千阅
 Version: 0.0.1

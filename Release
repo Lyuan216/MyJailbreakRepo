@@ -7,10 +7,10 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: 我的越狱插件源
 MD5Sum:
- 40efa259be688543b1c60c29ba775c5b 1754 Packages
- e3e3dab2f9583f9d1e1953b55598ac06 727 Packages.gz
- 6507c7fc60fb525fc7f2605302bac7ec 843 Packages.bz2
+ 8208e0fdef8f9b3e6754b494cbdaa762 1301 Packages
+ b39a8c6eb481e69f2991e1150ada7ba5 610 Packages.gz
+ d09bd5dafa31af0df526f2026f3fdd07 696 Packages.bz2
 SHA256:
- a974fb4dbbadda01da4d885d75b5a5723352b71c656d37b69a0508a30d751ffc 1754 Packages
- 43b24690c8cab3ca8bb909a2b628940931dca37e293a6a98fb364b7c605ea779 727 Packages.gz
- 965a7f8b4603021b234f95df879c239b5ca06cbc702d08ddd77f5b638046dc5c 843 Packages.bz2
+ 3aedbb6f2cff2d294c1a2eb3e3a4bdb1a4a0d0eddcaf44a1a216c5995b6c7d88 1301 Packages
+ 182e003487b67d13b70408ccb5d0d53a04e03b58260dfaf519e088c9855613db 610 Packages.gz
+ eabe90fcb7bf191584124b80ba43cd88cdb8d94e319b736a457d69c738693eb3 696 Packages.bz2
