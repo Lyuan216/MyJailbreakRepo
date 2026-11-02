@@ -1,3 +1,17 @@
+Package: com.huami.WCPulse
+Name: WCPulse
+Version: 1.6-7
+Architecture: iphoneos-arm64
+Description: WCPulse
+Depends: mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Author: huami
+Maintainer: huami
+Filename: debs/com.huami.wcpulse_1.6-7_iphoneos-arm64.deb
+Size: 6107366
+MD5sum: e23474efe8068372429889c21f3a9301
+SHA256: 640e7ab88321894be487b05b6f8d690548bcec8f62cffd11645e269282d73463
+
 Package: com.hw.cookiepro
 Name: 🄷🅆  Cookie
 Version: 0.0.1
