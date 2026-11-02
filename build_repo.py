@@ -27,7 +27,7 @@ REPO_META = {
     "Label":       "My Jailbreak Repo",
     "Suite":       "stable",
     "Version":     "1.0",
-    "Architectures": "iphoneos-arm iphoneos-arm64",
+    "Architectures": "iphoneos-arm iphoneos-arm64 iphoneos-arm64e",
     "Components":  "main",
     "Description": "我的越狱插件源",
     "Icon":        "https://lyuan216.github.io/MyJailbreakRepo/icon.png",

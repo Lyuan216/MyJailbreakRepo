@@ -3,14 +3,14 @@ Label: My Jailbreak Repo
 Icon: https://lyuan216.github.io/MyJailbreakRepo/icon.png
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 我的越狱插件源
 MD5Sum:
- 8208e0fdef8f9b3e6754b494cbdaa762 1301 Packages
- b39a8c6eb481e69f2991e1150ada7ba5 610 Packages.gz
- d09bd5dafa31af0df526f2026f3fdd07 696 Packages.bz2
+ e60a173b97a9f751f23275a00a871348 2030 Packages
+ 7996f3b99cb177686359ce1c26800c7c 1032 Packages.gz
+ 55b81c8670bfc35eab884b7cbab6b127 1143 Packages.bz2
 SHA256:
- 3aedbb6f2cff2d294c1a2eb3e3a4bdb1a4a0d0eddcaf44a1a216c5995b6c7d88 1301 Packages
- 182e003487b67d13b70408ccb5d0d53a04e03b58260dfaf519e088c9855613db 610 Packages.gz
- eabe90fcb7bf191584124b80ba43cd88cdb8d94e319b736a457d69c738693eb3 696 Packages.bz2
+ e7f1115741a8f5a903da6e6b503b2e6cce33309b6a60c1423a2cb58714c2330a 2030 Packages
+ dd9577c7f8c180a5ff6e16c8a168ca8edfcb16443c9140de631d7b4af61b4083 1032 Packages.gz
+ 3c5b1aacc5568a202625bb3902c9139f64c2e515fc28f8e485bd7d4d2e8d3dc7 1143 Packages.bz2

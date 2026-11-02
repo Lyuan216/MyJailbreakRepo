@@ -1,3 +1,22 @@
+Package: com.cydiabc.wcpulse-rootless
+Name: 微信 WCPulse-Rootless
+Version: 1.7-6
+Architecture: iphoneos-arm64e
+Description: 微信实用小插件* 启用视频倍速手势* 启用头像时间标签* 自定义防撤回功能* 插件管理排序功能* 默认绕过多开人脸、无后台限制
+Depends: mobilesubstrate (>= 0.9.5000)
+Pre-Depends: rootless-compat (>= 0.9)
+Section: 微信
+Author: huami
+Maintainer: huami
+Sponsor: Ai-小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Filename: debs/WCPulse-Rootless_1.7-6_iphoneos-arm64e.deb
+Size: 716
+MD5sum: 674cd4a6eb22334e3099d3a026b2a83a
+SHA256: 3b239e17c4acea5780a002ac61237b5359f36e2081bb2ebdab95c545ec02ba46
+A12: 1
+Icon2: 10.png
+
 Package: com.hw.cookiepro
 Name: 🄷🅆  Cookie
 Version: 0.0.1
